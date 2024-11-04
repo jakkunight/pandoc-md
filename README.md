@@ -3,12 +3,15 @@ title: "How to make PDF documents with Pandoc"
 subtitle: "Markdown + LaTeX + Mermaid"
 author: "Jakku Night"
 date: "04-11-2024"
-font: "12pt"
-margin: "2cm"
+fontsize: 12pt
+margin: 2cm
+output:
+  pdf_document:
+    toc: true
 ---
 
-\maketitle
-\clearpage
+$ \maketitle $
+$ \clearpage $
 
 # Table of Contents
 + [A quick reference to the Markdown syntax](#md)

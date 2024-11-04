@@ -11,17 +11,17 @@ margin: "2cm"
 \clearpage
 
 # Table of Contents
-+ [A quick reference to the Markdown syntax](#)
-+ [A brief introduction to LaTeX](#)
-+ [How to write Mermaid](#)
-+ [Compiling your document with Pandoc](#)
-+ [Neovim](#)
-+ [A brief tutorial for using GitHub and GitLab](#)
++ [A quick reference to the Markdown syntax](#md)
++ [A brief introduction to LaTeX](#latex)
++ [How to write Mermaid](#mermaid)
++ [Compiling your document with Pandoc](#neovim)
++ [Neovim](#git)
++ [A brief tutorial for using GitHub and GitLab](#github-gitlab)
 
-# A quick reference to the Markdown syntax
-# A brief introduction to LaTeX
-# How to write Mermaid
-# Compiling your document with Pandoc
-# Neovim
-# Version Control and Backup with Git
-# A brief tutorial for using GitHub and GitLab
+# A quick reference to the Markdown syntax {#md}
+# A brief introduction to LaTeX {#latex}
+# How to write Mermaid {#mermaid}
+# Compiling your document with Pandoc {#pandoc}
+# Neovim {#neovim}
+# Version Control and Backup with Git {#git}
+# A brief tutorial for using GitHub and GitLab {#github-gitlab}
